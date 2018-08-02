@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882143841828",
+    "firebase_url": "https://xplaincap-5c0ae.firebaseio.com",
+    "project_id": "xplaincap-5c0ae",
+    "storage_bucket": "xplaincap-5c0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882143841828:android:d311077c2c24f1fd",
+        "android_client_info": {
+          "package_name": "com.xplaincap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882143841828-e7gtl568pcvtm8pfvvqpsl1gb5iobpj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xplaincap",
+            "certificate_hash": "0b0201b4475eb45b389cab371d12a3a06c7a9157"
+          }
+        },
+        {
+          "client_id": "882143841828-us2mlbvtq76hrb9nsgtjjn091k73cf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLbB5tIfW0997vD5L17xir-Uem6ZZ8cc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882143841828-us2mlbvtq76hrb9nsgtjjn091k73cf5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
